@@ -1,8 +1,5 @@
-
--- =====================================================
 -- Global Superstore SQL Window Functions Project
--- =====================================================
-
+--------------------------------------------------------------
 -- STEP 1: Table creation
 CREATE TABLE superstore (
     row_id INT,
